@@ -1,0 +1,13 @@
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\bin\Debug\netcoreapp3.1\Cajero Automatico.exe
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\bin\Debug\netcoreapp3.1\Cajero Automatico.deps.json
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\bin\Debug\netcoreapp3.1\Cajero Automatico.runtimeconfig.json
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\bin\Debug\netcoreapp3.1\Cajero Automatico.runtimeconfig.dev.json
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\bin\Debug\netcoreapp3.1\Cajero Automatico.dll
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\bin\Debug\netcoreapp3.1\Cajero Automatico.pdb
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\obj\Debug\netcoreapp3.1\Cajero Automatico.csproj.AssemblyReference.cache
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\obj\Debug\netcoreapp3.1\Cajero Automatico.AssemblyInfoInputs.cache
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\obj\Debug\netcoreapp3.1\Cajero Automatico.AssemblyInfo.cs
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\obj\Debug\netcoreapp3.1\Cajero Automatico.csproj.CoreCompileInputs.cache
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\obj\Debug\netcoreapp3.1\Cajero Automatico.dll
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\obj\Debug\netcoreapp3.1\Cajero Automatico.pdb
+C:\Users\Denisse Furcal\Desktop\Programacion\Cajero Automatico\Cajero Automatico\obj\Debug\netcoreapp3.1\Cajero Automatico.genruntimeconfig.cache

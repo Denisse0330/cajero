@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cajero Automatico/1.0.0": {
+        "runtime": {
+          "Cajero Automatico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cajero Automatico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

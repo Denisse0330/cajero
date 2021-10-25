@@ -51,7 +51,7 @@ namespace Cajero_Automatico
                         }
 
                     }
-
+                    //////
                     else if (Mododedispensacion == 1)
                     {
                         if ((sifra % 200) == 0 && (sifra % 1000) == 0)
